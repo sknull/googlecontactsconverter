@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<phonebooks>
+    <phonebook owner="1" name="Google Phonebook">
+        <contact mod_time="" uniqueid="1">
+            <category>0</category>
+            <person>
+                <realName>Name_01</realName>
+            </person>
+            <telephony nid="2">
+                <number type="phone 1 - type_01" prio="0" id="1" quickdial="0">Phone 1 - Value_01</number>
+                <number type="phone 2 - type_01" prio="0" id="2" quickdial="0">Phone 2 - Value_01</number>
+                <number type="phone 3 - type_01" prio="0" id="3" quickdial="0">Phone 3 - Value_01</number>
+                <number type="phone 4 - type_01" prio="0" id="4" quickdial="0">Phone 4 - Value_01</number>
+            </telephony>
+            <services nid="1">
+                <email classifier="e-mail 1 - type_01" id="1">E-mail 1 - Value_01</email>
+                <email classifier="e-mail 2 - type_01" id="2">E-mail 2 - Value_01</email>
+            </services>
+            <features doorphone="0"/>
+        </contact>
+        <contact mod_time="" uniqueid="2">
+            <category>0</category>
+            <person>
+                <realName>Name_02</realName>
+            </person>
+            <telephony nid="4">
+                <number type="phone 1 - type_02" prio="0" id="5" quickdial="0">Phone 1 - Value_02</number>
+                <number type="phone 2 - type_02" prio="0" id="6" quickdial="0">Phone 2 - Value_02</number>
+                <number type="phone 3 - type_02" prio="0" id="7" quickdial="0">Phone 3 - Value_02</number>
+                <number type="phone 4 - type_02" prio="0" id="8" quickdial="0">Phone 4 - Value_02</number>
+            </telephony>
+            <services nid="3">
+                <email classifier="e-mail 1 - type_02" id="3">E-mail 1 - Value_02</email>
+                <email classifier="e-mail 2 - type_02" id="4">E-mail 2 - Value_02</email>
+            </services>
+            <features doorphone="0"/>
+        </contact>
+        <contact mod_time="" uniqueid="3">
+            <category>0</category>
+            <person>
+                <realName>Name_03</realName>
+            </person>
+            <telephony nid="6">
+                <number type="phone 1 - type_03" prio="0" id="9" quickdial="0">Phone 1 - Value_03</number>
+                <number type="phone 2 - type_03" prio="0" id="10" quickdial="0">Phone 2 - Value_03</number>
+                <number type="phone 3 - type_03" prio="0" id="11" quickdial="0">Phone 3 - Value_03</number>
+                <number type="phone 4 - type_03" prio="0" id="12" quickdial="0">Phone 4 - Value_03</number>
+            </telephony>
+            <services nid="5">
+                <email classifier="e-mail 1 - type_03" id="5">E-mail 1 - Value_03</email>
+                <email classifier="e-mail 2 - type_03" id="6">E-mail 2 - Value_03</email>
+            </services>
+            <features doorphone="0"/>
+        </contact>
+        <contact mod_time="" uniqueid="4">
+            <category>0</category>
+            <person>
+                <realName>Name_04</realName>
+            </person>
+            <telephony nid="8">
+                <number type="phone 1 - type_04" prio="0" id="13" quickdial="0">Phone 1 - Value_04</number>
+                <number type="phone 2 - type_04" prio="0" id="14" quickdial="0">Phone 2 - Value_04</number>
+                <number type="phone 3 - type_04" prio="0" id="15" quickdial="0">Phone 3 - Value_04</number>
+                <number type="phone 4 - type_04" prio="0" id="16" quickdial="0">Phone 4 - Value_04</number>
+            </telephony>
+            <services nid="7">
+                <email classifier="e-mail 1 - type_04" id="7">E-mail 1 - Value_04</email>
+                <email classifier="e-mail 2 - type_04" id="8">E-mail 2 - Value_04</email>
+            </services>
+            <features doorphone="0"/>
+        </contact>
+        <contact mod_time="" uniqueid="5">
+            <category>0</category>
+            <person>
+                <realName>Name_05</realName>
+            </person>
+            <telephony nid="10">
+                <number type="phone 1 - type_05" prio="0" id="17" quickdial="0">Phone 1 - Value_05</number>
+                <number type="phone 2 - type_05" prio="0" id="18" quickdial="0">Phone 2 - Value_05</number>
+                <number type="phone 3 - type_05" prio="0" id="19" quickdial="0">Phone 3 - Value_05</number>
+                <number type="phone 4 - type_05" prio="0" id="20" quickdial="0">Phone 4 - Value_05</number>
+            </telephony>
+            <services nid="9">
+                <email classifier="e-mail 1 - type_05" id="9">E-mail 1 - Value_05</email>
+                <email classifier="e-mail 2 - type_05" id="10">E-mail 2 - Value_05</email>
+            </services>
+            <features doorphone="0"/>
+        </contact>
+        <contact mod_time="" uniqueid="6">
+            <category>0</category>
+            <person>
+                <realName>Name_06</realName>
+            </person>
+            <telephony nid="12">
+                <number type="phone 1 - type_06" prio="0" id="21" quickdial="0">Phone 1 - Value_06</number>
+                <number type="phone 2 - type_06" prio="0" id="22" quickdial="0">Phone 2 - Value_06</number>
+                <number type="phone 3 - type_06" prio="0" id="23" quickdial="0">Phone 3 - Value_06</number>
+                <number type="phone 4 - type_06" prio="0" id="24" quickdial="0">Phone 4 - Value_06</number>
+            </telephony>
+            <services nid="11">
+                <email classifier="e-mail 1 - type_06" id="11">E-mail 1 - Value_06</email>
+                <email classifier="e-mail 2 - type_06" id="12">E-mail 2 - Value_06</email>
+            </services>
+            <features doorphone="0"/>
+        </contact>
+        <contact mod_time="" uniqueid="7">
+            <category>0</category>
+            <person>
+                <realName>Name_07</realName>
+            </person>
+            <telephony nid="14">
+                <number type="phone 1 - type_07" prio="0" id="25" quickdial="0">Phone 1 - Value_07</number>
+                <number type="phone 2 - type_07" prio="0" id="26" quickdial="0">Phone 2 - Value_07</number>
+                <number type="phone 3 - type_07" prio="0" id="27" quickdial="0">Phone 3 - Value_07</number>
+                <number type="phone 4 - type_07" prio="0" id="28" quickdial="0">Phone 4 - Value_07</number>
+            </telephony>
+            <services nid="13">
+                <email classifier="e-mail 1 - type_07" id="13">E-mail 1 - Value_07</email>
+                <email classifier="e-mail 2 - type_07" id="14">E-mail 2 - Value_07</email>
+            </services>
+            <features doorphone="0"/>
+        </contact>
+        <contact mod_time="" uniqueid="8">
+            <category>0</category>
+            <person>
+                <realName>Name_08</realName>
+            </person>
+            <telephony nid="16">
+                <number type="phone 1 - type_08" prio="0" id="29" quickdial="0">Phone 1 - Value_08</number>
+                <number type="phone 2 - type_08" prio="0" id="30" quickdial="0">Phone 2 - Value_08</number>
+                <number type="phone 3 - type_08" prio="0" id="31" quickdial="0">Phone 3 - Value_08</number>
+                <number type="phone 4 - type_08" prio="0" id="32" quickdial="0">Phone 4 - Value_08</number>
+            </telephony>
+            <services nid="15">
+                <email classifier="e-mail 1 - type_08" id="15">E-mail 1 - Value_08</email>
+                <email classifier="e-mail 2 - type_08" id="16">E-mail 2 - Value_08</email>
+            </services>
+            <features doorphone="0"/>
+        </contact>
+        <contact mod_time="" uniqueid="9">
+            <category>0</category>
+            <person>
+                <realName>Name_09</realName>
+            </person>
+            <telephony nid="18">
+                <number type="phone 1 - type_09" prio="0" id="33" quickdial="0">Phone 1 - Value_09</number>
+                <number type="phone 2 - type_09" prio="0" id="34" quickdial="0">Phone 2 - Value_09</number>
+                <number type="phone 3 - type_09" prio="0" id="35" quickdial="0">Phone 3 - Value_09</number>
+                <number type="phone 4 - type_09" prio="0" id="36" quickdial="0">Phone 4 - Value_09</number>
+            </telephony>
+            <services nid="17">
+                <email classifier="e-mail 1 - type_09" id="17">E-mail 1 - Value_09</email>
+                <email classifier="e-mail 2 - type_09" id="18">E-mail 2 - Value_09</email>
+            </services>
+            <features doorphone="0"/>
+        </contact>
+        <contact mod_time="" uniqueid="10">
+            <category>0</category>
+            <person>
+                <realName>Name_10</realName>
+            </person>
+            <telephony nid="20">
+                <number type="phone 1 - type_10" prio="0" id="37" quickdial="0">Phone 1 - Value_10</number>
+                <number type="phone 2 - type_10" prio="0" id="38" quickdial="0">Phone 2 - Value_10</number>
+                <number type="phone 3 - type_10" prio="0" id="39" quickdial="0">Phone 3 - Value_10</number>
+                <number type="phone 4 - type_10" prio="0" id="40" quickdial="0">Phone 4 - Value_10</number>
+            </telephony>
+            <services nid="19">
+                <email classifier="e-mail 1 - type_10" id="19">E-mail 1 - Value_10</email>
+                <email classifier="e-mail 2 - type_10" id="20">E-mail 2 - Value_10</email>
+            </services>
+            <features doorphone="0"/>
+        </contact>
+    </phonebook>
+</phonebooks>

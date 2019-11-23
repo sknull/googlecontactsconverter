@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phonebooks>
+    <phonebook>
+        <contact>
+            <category/>
+            <person>
+                <realName>AVM Ansage (HD)</realName>
+            </person>
+            <telephony nid="1">
+                <number prio="1" type="work" quickdial="99" id="0">500@hd-telefonie.avm.de</number>
+            </telephony>
+            <services>
+                <email classifier="work" id="1">foo.bar@baz.com</email>
+            </services>
+            <setup/>
+            <uniqueid>0</uniqueid>
+        </contact>
+        <contact>
+            <category/>
+            <person>
+                <realName>HD-Musik</realName>
+            </person>
+            <telephony nid="2">
+                <number prio="1" type="home" quickdial="97" id="0">200@hd-telefonie.avm.de</number>
+            </telephony>
+            <services/>
+            <setup/>
+            <uniqueid>1</uniqueid>
+        </contact>
+        <contact>
+            <category/>
+            <person>
+                <realName>HD-Sprache</realName>
+            </person>
+            <telephony nid="1">
+                <number prio="1" type="home" quickdial="98" id="0">100@hd-telefonie.avm.de</number>
+            </telephony>
+            <services/>
+            <setup/>
+            <uniqueid>2</uniqueid>
+        </contact>
+        <contact>
+            <category>1</category>
+            <person>
+                <realName>Name</realName>
+            </person>
+            <telephony nid="3">
+                <number type="home" prio="1" id="0">012345</number>
+                <number type="mobile" prio="0" id="1">6789</number>
+                <number type="work" prio="0" id="2">9876</number>
+            </telephony>
+            <services nid="1">
+                <email classifier="home" id="3">foo@bar.baz</email>
+                <email classifier="mobile" id="4">foo@bar.baz</email>
+                <email classifier="work" id="5">foo@bar.baz</email>
+            </services>
+            <setup/>
+            <features doorphone="0"/>
+            <mod_time>1574285975</mod_time>
+            <uniqueid>21</uniqueid>
+        </contact>
+    </phonebook>
+</phonebooks>
