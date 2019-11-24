@@ -110,6 +110,7 @@
               <goal>shade</goal>
             </goals>
             <configuration>
+              <finalName>googlecontactsconverter</finalName>
               <transformers>
                 <transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
                   <mainClass>de.visualdigits.GoogleContactsConverter</mainClass>
